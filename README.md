@@ -6,3 +6,4 @@ Le club de lecture du livre [Implementing Domain Driven Design](http://www.amazo
 ### Participants
  - [ericlemerdy](https://github.com/ericlemerdy)
  - [BernardNotarianni](https://github.com/BernardNotarianni)
+ - [Arnauld](https://github.com/Arnauld)
