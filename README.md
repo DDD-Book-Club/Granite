@@ -5,6 +5,6 @@ Le club de lecture du livre [Implementing Domain Driven Design](http://www.amazo
 
 ### Participants
  - [ericlemerdy](https://github.com/ericlemerdy)
- - [BernardNotarianni](https://github.com/BernardNotarianni)
+ - [Bernard Notarianni](https://github.com/BernardNotarianni)
  - [Radwane Hassen](https://github.com/dotnetstation)
  - [Arnauld](https://github.com/Arnauld)
