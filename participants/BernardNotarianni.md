@@ -10,8 +10,9 @@ Les specs (ou user stories) qu'ils produisent sont souvent constituées de longu
 avec des règles de gestion à coté. Ils n'ont pas de recul sur leur activité et tout leur semble de priorité 1. A mon sens
 DDD permet de leur apporter une compréhension plus synthètique et donc plus claire de leur métier. Cela rejoint
 l'idée d'un "ubiquitous langage" cocréé par les fonctionnels et les tech (p21)
+- p22: le tableau sur les **différents styles de code**
+- p33: la notion de **cognitive overload** engendrée par des signatures de messages trops détaillées et probablement trop techniques.
 
-- p22: le tableau sur les différents styles de code
 
 ### Mes questions
 - Existe-t-il des projets sur lesquels il n'est pas pertinent/utile de faire du DDD? Si oui, ces projets valent-ils la peine d'être menés? (pas de bunsiness value?)
